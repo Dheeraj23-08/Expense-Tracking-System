@@ -76,7 +76,7 @@ It enables users to **track daily expenses**, view financial summaries, and make
 ## 🖼️ App UI Preview
 
 <p align="center">
-  <img src="images/ui_screenshot.png" alt="Expense Tracker UI" width="700"/>
+  <img src="https://github.com/Dheeraj23-08/Expense-Tracking-System/blob/main/app_frontend_ui.png" alt="Expense Tracker UI" width="700"/>
 </p>
 
 ---
